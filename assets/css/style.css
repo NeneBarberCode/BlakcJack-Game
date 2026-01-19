@@ -17,7 +17,7 @@ html, body{
 }
 
 .carta{
-    margin-top: -220px;
+    /* margin-top: -220px; */
 position: relative;
 width: 150px;
 left: 100px;
